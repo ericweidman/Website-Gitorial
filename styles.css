@@ -1,0 +1,9 @@
+body{
+background-color: lightgrey;
+}
+ul{
+font-style: italic;
+}
+ol{
+  font-weight: bold;
+}
